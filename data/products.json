@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-BTmW%2BL0L._SX425_.jpg",
+      "price": 19.99,
+      "inventory": 2,
+      "keyword": "Marvel"
+    },
+    {
+      "id": 2,
+      "title": "Buzz Lightyear Action Doll",
+      "description": "Buzz Lightyear is a favorite of youngsters. He has a ray-gun, wings that can be retracted or extended on the push of a button, and a grin that could make any alien get a chill up their spine - should they have one.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61P3XRhjc-L._SY355_.jpg",
+      "price": 38.50,
+      "inventory": 50,
+      "keyword": "ToyStory"
+    },
+    {
+      "id": 3,
+      "title": "Minion Dave",
+      "description": "Dave is a two-eyed and medium-sized minion with nice combed hair. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81SyEbLl0LL._SL1500_.jpg",
+      "price": 12.99,
+      "inventory": 10,
+      "keyword": "Illumination"
+    },
+    {
+      "id": 4,
+      "title": "Minion Kevin",
+      "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "image": "https://temporarytattoos.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/d/s/dsp-me-05.jpg",
+      "price": 12.99,
+      "inventory": 20,
+      "keyword": "Illumination"
+    },
+    {
+      "id": 5,
+      "title": "Minion Bob",
+      "description": "Bob is a short and bald minion with multi-colored eyes (green and brown). He often carries around a teddy bear that he owns called Tim, which is brown with yellow buttoned eyes. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "image": "https://vignette.wikia.nocookie.net/despicableme/images/c/ca/Bob-from-the-minions-movie.jpg/revision/latest?cb=20151224154354",
+      "price": 12.99,
+      "inventory": 9,
+      "keyword": "Illumination"
+    },
+    {
+      "id": 8,
+      "title": "Elder Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "image": "https://fotografias.antena3.com/clipping/cmsimages01/2018/04/16/A5797329-029F-45F7-B8D1-2D4B6CAEB20A/63.jpg",
+      "price": 29.99,
+      "inventory": 2,
+      "keyword": "Marvel"
+    },
+    {
+      "id": 6,
+      "title": "Thanos",
+      "description": "Thanos is a fictional character appearing in American comic books published by Marvel Comics. Created by writer/artist Jim Starlin, the character first appeared in The Invincible Iron Man #55 (cover dated February 1973). Thanos is one of the most powerful villains in the Marvel Universe and has clashed with many heroes including the Avengers, the Guardians of the Galaxy, the Fantastic Four, the X-Men, and among many others.",
+      "image": "https://image.smythstoys.com/original/desktop/167500.jpg",
+      "price": 29.99,
+      "inventory": 2,
+      "keyword": "Marvel"
+    },
+    {
+      "id": 7,
+      "title": "Venom",
+      "description": "Venom is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with Spider-Man. The character is a sentient alien Symbiote with an amorphous, liquid-like form, who requires a host, usually human, to bond with for its survival. After bonding with a human host, the Symbiote bestows its enhanced powers upon the host. When the Venom Symbiote bonds with a human, that new dual-life form usually refers to itself as 'Venom'. The Symbiote was originally introduced as a living alien costume in The Amazing Spider-Man #252 (May 1984), with a full first appearance as Venom in The Amazing Spider-Man #300 (May 1988).",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71deXApjIQL._SY606_.jpg",
+      "price": 29.99,
+      "inventory": 2,
+      "keyword": "Marvel"
+    }
+  ]
+}
